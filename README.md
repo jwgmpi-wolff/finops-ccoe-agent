@@ -2,6 +2,15 @@
 
 Live, multi-tenant Azure FinOps reporting with Entra/CLI auth, subscription discovery, domain-specific analytics, and multi-format exports.
 
+<!-- project-downloads:start -->
+## APK and installer downloads
+
+No packaged APK or desktop installer is currently published for this repository. The source archive below is not an installer; use the project-specific setup and build instructions.
+
+- [Download the complete source ZIP](https://github.com/jwgmpi-wolff/finops-ccoe-agent/archive/refs/heads/main.zip).
+- [Setup script: deploy-local.ps1](./deploy-local.ps1) (download and extract the complete source ZIP first).
+<!-- project-downloads:end -->
+
 ## Deploy Buttons
 
 [![Deploy to Azure](https://aka.ms/deploytoazurebutton)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2Fjerrywolff_microsoft%2Fagents%2Fmain%2Ffinops-ccoe-agent%2Finfra%2Fazuredeploy.json)
@@ -245,3 +254,9 @@ Now implement this end-to-end in code, scaffolding all needed files, wiring depe
 ## License
 
 This project is provided as-is for internal enablement and engineering acceleration.
+
+## Copyright
+
+Copyright (c) 2026 Jerry Wolff. See [COPYRIGHT](COPYRIGHT) for the scope of this
+notice. Existing licenses and third-party attribution remain unchanged; this
+notice does not grant additional permissions.
